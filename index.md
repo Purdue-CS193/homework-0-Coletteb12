@@ -1,7 +1,5 @@
-## Welcome to GitHub Pages
 ## Colette Bacidore Homework 0 
 
-# Why I like 193 
 - Beginner friendly
 - Valuable CS skills
 - Helpful TAs 
